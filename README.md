@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/edb20052-1f4-41e9-a0b1-70ba0941ba32/public_url">
-    <img src="https://images.credly.com/images/5b0a6d4b-92c5-4e1a-b4b7-7c9e1b3e2d5f/image.png" />
+    <img src="./aws-educate-getting-started-with-networking-trainin.png" alt="AWS Networking Badge" width="200"/>
   </a>
 </p>
 
@@ -56,4 +56,3 @@
 **Skills Verified:** AWS Networking, VPC, Subnets, NAT, Security Groups
 
 ---
-
