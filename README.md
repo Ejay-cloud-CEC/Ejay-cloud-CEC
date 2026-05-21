@@ -61,12 +61,11 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/598c1ca7-ce3d-42eb-b113-f2ddeb509239/public_url">
-    <img src="./aws-educate-getting-started-with-security-trained.png" alt="AWS Security Badge" width="200"/>
+    <img src="./aws-educate-getting-started-with-security-training-.png" alt="AWS Security Badge" width="200"/>
   </a>
 </p>
 
-✅ **Issued to:** Ejay Ardimer  
-
+✅ **Issued to:** Ejay Ardimer | May 21, 2026  
 🔗 [Verify on Credly](https://www.credly.com/badges/598c1ca7-ce3d-42eb-b113-f2ddeb509239/public_url)
 
 ---
