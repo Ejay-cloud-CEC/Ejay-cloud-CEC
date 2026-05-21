@@ -68,6 +68,8 @@
 ✅ **Issued to:** Ejay Ardimer | May 21, 2026  
 🔗 [Verify on Credly](https://www.credly.com/badges/598c1ca7-ce3d-42eb-b113-f2ddeb509239/public_url)
 
+**Skills Verified:** AWS IAM, Shared Responsibility Model, Cloud Security Fundamentals, Security Groups, Data Protection, Threat Detection, AWS Security Services
+
 ---
 
 
