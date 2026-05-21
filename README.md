@@ -56,3 +56,19 @@
 **Skills Verified:** AWS Networking, VPC, Subnets, NAT, Security Groups
 
 ---
+
+## AWS Educate: Getting Started with Security - Trained
+
+<p align="center">
+  <a href="https://www.credly.com/badges/598c1ca7-ce3d-42eb-b113-f2ddeb509239/public_url">
+    <img src="./aws-educate-getting-started-with-security-trained.png" alt="AWS Security Badge" width="200"/>
+  </a>
+</p>
+
+✅ **Issued to:** Ejay Ardimer  
+
+🔗 [Verify on Credly](https://www.credly.com/badges/598c1ca7-ce3d-42eb-b113-f2ddeb509239/public_url)
+
+---
+
+
